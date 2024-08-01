@@ -1,0 +1,23 @@
+{
+  "name": "NSL_Ailabs_ImageProcessing_Req",
+  "entityClassification": "Adapter",
+  "isReserved": true,
+  "version": "1.0",
+  "status"  : "PUBLISHED",
+  "masterId" : "7575439911",
+
+  "nslAttributes": [
+    {
+      "name": "image",
+      "attributeType": {
+        "type": "file",
+        "uiElement": {
+          "dataType":"file",
+          "name":"File",
+          "uiElement":"file"
+        }
+      }
+    }
+  ]
+
+}
